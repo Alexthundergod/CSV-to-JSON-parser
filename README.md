@@ -16,6 +16,8 @@ cjp.parser(csv_file, json_file)
 
 You can see an example of visualization by downloading `example.py`
 
+![example_img](https://github.com/Alexthundergod/CSV-to-JSON-parser/blob/main/Figure_1.png)
+
 <h2>License</h2>
 
 Distributed under the MIT License. See `LICENSE` for more information.
